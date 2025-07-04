@@ -12,3 +12,4 @@ d:\VSCode\CSharp\HHG_timebased_welcome_quotes_FileVersion\obj\Debug\net9.0\refin
 d:\VSCode\CSharp\HHG_timebased_welcome_quotes_FileVersion\obj\Debug\net9.0\HHG_timebased_welcome_quotes_FileVersion.pdb
 D:\VSCode\CSharp\HHG_timebased_welcome_quotes_FileVersion\obj\Debug\net9.0\HHG_timebased_welcome_quotes_FileVersion.genruntimeconfig.cache
 D:\VSCode\CSharp\HHG_timebased_welcome_quotes_FileVersion\obj\Debug\net9.0\ref\HHG_timebased_welcome_quotes_FileVersion.dll
+d:\VSCode\CSharp\HHG_timebased_welcome_quotes_FileVersion\obj\Debug\net9.0\HHG_timebased_welcome_quotes_FileVersion.sourcelink.json
